@@ -1,3 +1,8 @@
 # Harmonic-Animation
 Implements a pixar research paper for animating 3-D models using harmonic coordinates for each vertex within a bounding box using libigl and python.
-![alt text](Screenshot[36].png)
+
+Original Mesh within original bounding box:
+![alt text](Screenshot(37).png)
+
+Recalculated Mesh within new bounding box:
+![alt text](Screenshot(38).png)
